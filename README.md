@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **ML,Graphic Designing,DS**
 
-- ⚡ Fun fact **People don't find my jokes funny :)**
+- ⚡ Fun fact **People don't find my jokes funny :) ++ Infinite loop of insanity**
 
 
 <br>
