@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **People don't find my jokes funny :) ++ Infinite loop of insanity**
 
+<img src="https://komarev.com/ghpvc/?username=sagprr" alt="page views" />
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
