@@ -18,19 +18,17 @@ Here are some ideas to get you started:
 <h3 align="center">Cracking the Code of Data && Secrets of Intelligent Systems</h3>
 <br>
 
-- 🌱 I’m currently learning **Machine Learning ++ Data Structures**
+-  I’m currently learning **Machine Learning ++ Data Structures**
 
-- 🔭 I’m currently working on [Multiple_Diseases_Prediction](https://github.com/sagprr/Machine_Learning/tree/main/Multiple_Diseases_using_ML)
+-  I’m currently working on [Machine_learning_Models](https://github.com/sagprr/Data_Science/tree/main/Machine%20Learning)
 
-- 👯 I’m looking to collaborate on [ML_WebApp_using _Streamlit](https://github.com/sagprr/Machine_Learning/tree/main/ML_WebApp_using%20_Streamlit)
+-  I’m looking for help with [Generative_AI](https://github.com/sagprr/Data_Science/tree/main/Specialization/Generative_AI)
 
-- 🤝 I’m looking for help with [Big_Mart_Sales_Prediction](https://github.com/sagprr/Machine_Learning/blob/main/Projects/Big_Mart_Sales_Prediction.ipynb)
+-  How to reach me **isagarpanwar@gmail.com**
 
-- 📫 How to reach me **isagarpanwar@gmail.com**
+-  Ask me about **Machine Learning,Data Structures & Algorithms**
 
-- 💬 Ask me about **ML,Graphic Designing,DS**
-
-- ⚡ Fun fact **People don't find my jokes funny :) ++ Infinite loop of insanity**
+-  Fun fact **In the Infinite loop of Insanity**
 
 <img src="https://komarev.com/ghpvc/?username=sagprr" alt="page views" />
 
@@ -54,10 +52,8 @@ Here are some ideas to get you started:
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/sagprr)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/isagarpanwar03) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/isagarpanwar/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/capturedbyengineer/)
 <br>
 
 </p>
